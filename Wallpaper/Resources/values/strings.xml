@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">My Wallpaper</string>
+  <string name="refresh">下拉可以刷新</string>
+  <string name="torefresh">松开立即刷新</string>
+  <string name="refreshing">正在刷新</string>
+</resources>
